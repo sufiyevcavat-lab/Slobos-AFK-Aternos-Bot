@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "pink1111",
   "bot-account": {
-    "username": "Vagifbot",
-    "password": "",
-    "type": "offline"
+    "username": "pink1111",
+    "password": "iamgay",
+    "type": "online"
   },
   "server": {
     "ip": "Moonsetboxpvp.aternos.me",
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Merhaba,
+        "Merhaba",
+        "AFK BOT"
       ]
     },
     "chat-log": true,
